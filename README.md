@@ -3,10 +3,12 @@
 Hi there! Welcome to my college portfoilio. Here you can find some of the homework assignemnts and projects I completed throughtout my college career.
 
 Important Courses
-<ul>
-  <li>[Computer Science 2](#computer-Science-2)</li>
-</ul>
-
+1. [Computer Science 1](#computer-science-1)
+2. [Computer Science 2](#computer-science-2)
+3. [Topics in Cyber Security](#topics-in-cyber-security)
+4. [Security in Computing](#security-in-computing)
+5. [Processes of Object Oriented Programming](#processes-of-object-oriented-programming)
+6. [Systems Software](#systems-software)
 
 ## Computer Science 1
 This was an introductory course on data structures and the design and analysis of algorithms. We developed formal, mathematical techniques for analyzing algorithms in terms of time and space efficiency. We worked on our problemsolving skills by designing and implementing efficient solutions to problems in C. We also covered recursion, common data structures (such as arrays, linked lists, stacks, queues, binary trees, binary heaps, and hash tables),sorting techniques, and search algorithms. 
