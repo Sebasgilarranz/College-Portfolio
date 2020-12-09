@@ -83,9 +83,11 @@ https://github.com/Sebasgilarranz/Computer-Science-2/tree/main/TopoPaths
   <li>Gain practical experience defending a small company network against internal and external security threats</li>
   <li>Demonstrate skills in accurately identifying, reporting, and responding to computer security incidents</li>
 </ul>
+
 #### Why Hardening Windows is Important
 This presentation goes over points as to why it is important to harden the windows operating system.
 
+https://github.com/Sebasgilarranz/Topics-in-Cyber-Security-/blob/main/CIS%20final.pptx
 ## Security in Computing
 ## Processes of Object Oriented Programming
 ## Systems Software
