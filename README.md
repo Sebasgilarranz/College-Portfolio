@@ -2,7 +2,7 @@
 
 Hi there! Welcome to my college portfoilio. Here you can find some of the homework assignemnts and projects I completed throughtout my college career.
 
-[Computer Science 2](##-Computer-Science-2)
+[Computer Science 2](##computer-Science-2)
 
 ## Computer Science 1
 This was an introductory course on data structures and the design and analysis of algorithms. We developed formal, mathematical techniques for analyzing algorithms in terms of time and space efficiency. We worked on our problemsolving skills by designing and implementing efficient solutions to problems in C. We also covered recursion, common data structures (such as arrays, linked lists, stacks, queues, binary trees, binary heaps, and hash tables),sorting techniques, and search algorithms. 
