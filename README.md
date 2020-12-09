@@ -11,6 +11,7 @@ https://github.com/Sebasgilarranz/Computer-Science-1
 
 # Glowworm
 This program is a worm that begins with a tail and head, '~' and 'G' respectively. It takes in a maximum size of worm and a string which will make it grow or shrink. More information can be found in the assignment pdf in the glowworm folder. The purpouse of the assignment is to refresh on C knowledge and work with manipulating string. More information can be found in the assignment PDF in the Glowworm folder.
+
 https://github.com/Sebasgilarranz/Computer-Science-1/tree/main/Glowworm
 # KindredSpirits
 This program checks two binary trees and determine if they were "kindred spirits." Essentially this was to check if the preorder traversal of the left tree is the same as the postorder traversal of the right tree. This purpose of this assignement was to learn to work with binary trees and learn how to traverse them with different methods. More information can be found in the assignment PDF in the KindredSpirits folder.
