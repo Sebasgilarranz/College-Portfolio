@@ -71,9 +71,9 @@ https://github.com/Sebasgilarranz/Computer-Science-2/tree/main/TopoALLgical
 This program determines how many topopaths there are in a given arbitrary graph.(A topopath is an ordering of vertices that are a valid path in a grpah and a valid topological sort.) The solution must be O(|V|^2). More information about this assignment can be found in the TopoPaths folder.
 
 https://github.com/Sebasgilarranz/Computer-Science-2/tree/main/TopoPaths
-# Topics in Cyber Security
+## Topics in Cyber Security
+#### Objectives of this course:
 <ul>
-  Objectives of this course:
   <li>Demonstrate ability to securely configure virtualization software such as ESX to allow students to install and manage multiple virtual machines in a simulated small corporate network environment</li>
   <li>Demonstrate ability to securely configure network firewalls such as pfSense</li>
   <li>Demonstrate skills required to securely configure various Windows server and client operating systems including Server 2003, 2008, 2008R2 and 2012 as well as Windows 7, 8, 8.1, 10</li>
@@ -83,6 +83,9 @@ https://github.com/Sebasgilarranz/Computer-Science-2/tree/main/TopoPaths
   <li>Gain practical experience defending a small company network against internal and external security threats</li>
   <li>Demonstrate skills in accurately identifying, reporting, and responding to computer security incidents</li>
 </ul>
-# Security in Computing
-# Processes of Object Oriented Programming
-# Systems Software
+#### Why Hardening Windows is Important
+This presentation goes over points as to why it is important to harden the windows operating system.
+
+## Security in Computing
+## Processes of Object Oriented Programming
+## Systems Software
