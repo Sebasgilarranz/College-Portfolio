@@ -14,15 +14,19 @@ This program is a worm that begins with a tail and head, '~' and 'G' respectivel
 https://github.com/Sebasgilarranz/Computer-Science-1/tree/main/Glowworm
 # KindredSpirits
 This program checks two binary trees and determine if they were "kindred spirits." Essentially this was to check if the preorder traversal of the left tree is the same as the postorder traversal of the right tree. This purpose of this assignement was to learn to work with binary trees and learn how to traverse them with different methods. More information can be found in the assignment PDF in the KindredSpirits folder.
+
 https://github.com/Sebasgilarranz/Computer-Science-1/tree/main/KindredSpirits
 # ListyString
 This program takes in a string and to convert it to a linked list. After converting, we take in different commands which will manipulate the linked list according to the command description. The purpose of this assignment was to learn to create and manipulate linked list in C. It also helped gain I/O experience in C and process command line arguments. More information can be found in the assignment PDF in the ListyString folder.
+
 https://github.com/Sebasgilarranz/Computer-Science-1/tree/main/ListyString
 # LonelyPartyArray
 This program keeps track of multiple different arrays which are dynamically allocated in an effort to conserve memory. This program helped gain expirience with dynamically allocating memory in C rather than allocating mememory all at once and wasting memory. More information can be found in the assignment PDF in the LonelyPartyArray folder.
+
 https://github.com/Sebasgilarranz/Computer-Science-1/tree/main/LonelyPartyArray
 # SneakyRooks
 This program takes in a list of coordinate strings for rooks on a chess board, and determines if any of the rooks can attack one another. The trickiest part of this assignement is that the runtime cannot exceed O(m+n) So it must be linear. More information can be found in the assignment PDF in the LonelyPartyArray folder.
+
 https://github.com/Sebasgilarranz/Computer-Science-1/tree/main/SneakyRooks
 # Computer Science 2
 # Topics in Cyber Security
