@@ -87,7 +87,7 @@ https://github.com/Sebasgilarranz/Computer-Science-2/tree/main/TopoPaths
 #### Why Hardening Windows is Important
 This presentation goes over points as to why it is important to harden the windows operating system.
 
-https://github.com/Sebasgilarranz/Topics-in-Cyber-Security-/blob/main/CIS%20final.pptx
+https://github.com/Sebasgilarranz/Topics-in-Cyber-Security/blob/main/CIS%20final.pptx
 ## Security in Computing
 This course is designed to provide a basic understanding security theory and practice for modern computing environments.Students will acquire proficiency in a number of classic and modern symmetric and public key cryptographic methods. Students will explore important topics in key exchange mechanisms; modes of operation; malware attacks, vulnerabilities, and defenses; network, web, and email security; digital rights management; and legal and ethical issues.
 
