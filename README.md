@@ -1,6 +1,6 @@
 # College Portfolio
 
-Hi there! Welcome to my college portfoilio. Here you can find some of the homework assignemnts and projects I completed throughtout my college career.
+Hi there! Welcome to my college portfoilio. Here you can find some of the homework assignments and projects I completed throughtout my college career.
 
 Important Courses
 1. [Computer Science 1](#computer-science-1)
