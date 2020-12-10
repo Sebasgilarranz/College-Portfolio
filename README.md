@@ -119,7 +119,7 @@ This project is a full stack website using LAMP stack softwares. The following a
   <li> Delete contacts </li>
   <li> Search contacts </li>
 </ul>
-The files bieng hosted can be found in the folder above.
+The files bieng hosted can be found at: https://github.com/Sebasgilarranz/Processes-of-Object-Oriented-Programming/tree/main/Contactology-LAMP
 
 The website url is: https://contactology.pythonanywhere.com/
 
@@ -136,7 +136,7 @@ This project is a full stack website using MERN stack softwares. The following a
   <li> Unfavorite restaurants </li>
   <li> Look at account info </li>
 </ul>
-The files bieng hosted can be found in the folder above.
+The files bieng hosted can be found at: https://github.com/Sebasgilarranz/Processes-of-Object-Oriented-Programming/tree/main/Foody%20Friend%20-%20MERN
 
 The website url is: https://foodie-friendd.herokuapp.com/
 ## Systems Software
